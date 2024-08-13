@@ -15,14 +15,18 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![x86, x86_64 Intel Assembly](https://img.shields.io/badge/-Intel-Assembly-000000?style=flat&logo=linux)
+![x86, x86_64 Intel Assembly](https://img.shields.io/badge/-Intel_Assembly-000000?style=flat&logo=linux)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 
 ##### Some of the technologies I have worked with
 
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-000000?style=flat&logo=gnubash)
+![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt)
+![FLTK](https://img.shields.io/badge/-FLTK-000000?style=flat)
+![Godot](https://img.shields.io/badge/-Godot-000000?style=flat&logo=godotengine)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <br/>
 
