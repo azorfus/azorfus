@@ -5,8 +5,8 @@
 ## I'm a fresher at VIT Chennai, India.
 
 - I’m currently working on CTF challenges focused on reverse engineering, binary exploitation and cryptography.
-- Learning everything about low level programming and linux kernel development. 
-- Goal: Keep Learning and have fun solving CTF challenges :P
+- Learning everything *almost* about low level programming and linux kernel development. 
+- Goal: Keep learning and have fun solving CTF challenges :P
 
 ---
 
