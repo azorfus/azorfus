@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm [Azorfus!](https://github.com/azorfus/azorfus/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ## I'm a fresher at VIT Chennai, India.
 
 - I’m currently working on CTF challenges focused on reverse engineering, binary exploitation and cryptography.
