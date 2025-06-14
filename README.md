@@ -12,6 +12,7 @@
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![x86, x86_64 Intel Assembly](https://img.shields.io/badge/-Intel_Assembly-000000?style=flat&logo=intel)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
