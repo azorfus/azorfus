@@ -3,6 +3,7 @@
 ## I'm a fresher at VIT Chennai, India.
 
 - I’m currently working on CTF challenges focused on reverse engineering, binary exploitation and cryptography.
+- Also writing a custom language with a simple recursive descent parser in Rust along with a RISC - V simulator to complete it
 - Learning *almost* everything about low level programming and linux kernel development. 
 - Goal: Keep learning and have fun solving CTF challenges :P
 
