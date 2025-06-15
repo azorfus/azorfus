@@ -1,8 +1,10 @@
-### Hi there 👋 I'm [Azorfus!](https://github.com/azorfus/azorfus/)
+### Hi there 👋 I'm [Azorfus!](https://azorfus.github.io/about)
 
 ## I'm a Sophomore at VIT Chennai, India.
 
-- I work on CTF challenges focused on reverse engineering, binary exploitation and cryptography.
+[My blog!](azorfus.github.io)
+
+- I work on CTF challenges focused on reverse engineering, binary exploitation and cryptography. 
 - Writing a custom RISC V targetted compiler with a simple recursive descent parser in Rust along with a RISC - V simulator
 - Learning *almost* everything about low level programming and linux kernel development. 
 - Goal: Keep learning and have fun solving CTF challenges :P
