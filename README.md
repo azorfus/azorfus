@@ -2,7 +2,7 @@
 
 ## I'm a Sophomore at VIT Chennai, India.
 
-[My blog!](azorfus.github.io)
+[My blog!](https://azorfus.github.io/))
 
 - I work on CTF challenges focused on reverse engineering, binary exploitation and cryptography. 
 - Writing a custom RISC V targetted compiler with a simple recursive descent parser in Rust along with a RISC - V simulator
