@@ -4,8 +4,8 @@
 
 [My blog!](https://azorfus.github.io/)
 
+- Writing a custom systems programming with a simple recursive descent parser in Rust called [Zerl](https://www.github.com/azorfus/Zerl)
 - I work on CTF challenges focused on reverse engineering, binary exploitation and cryptography. 
-- Writing a custom RISC V targetted compiler with a simple recursive descent parser in Rust along with a RISC - V simulator
 - Learning *almost* everything about low level programming and linux kernel development. 
 - Goal: Keep learning and have fun solving CTF challenges :P
 
