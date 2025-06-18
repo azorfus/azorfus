@@ -4,7 +4,7 @@
 
 [My blog!](https://azorfus.github.io/)
 
-- Writing a custom systems programming with a simple recursive descent parser in Rust called [Zerl](https://www.github.com/azorfus/Zerl)
+- Writing a custom systems programming language with a simple recursive descent parser in Rust called [Zerl](https://www.github.com/azorfus/Zerl)
 - I work on CTF challenges focused on reverse engineering, binary exploitation and cryptography. 
 - Learning *almost* everything about low level programming and linux kernel development. 
 - Goal: Keep learning and have fun solving CTF challenges :P
