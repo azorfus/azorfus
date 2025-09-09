@@ -4,26 +4,10 @@
 
 [My Site!](https://azorfus.github.io/)
 
-**Projects**
-
-- **MindF\*ck** - *A self - transforming brainf\*ck compiler written in x86 assembly.* (Ongoing) [Repo](https://github.com/azorfus/mindfck)
-
-- **Punch Machine** - *A UDP Hole Puncher.* (Ongoing) [Repo](https://github.com/azorfus/punchmachine)
-
-- **Thousand Islands** - *An attempt at writing an entire Operating System in under 1000 lines.* (Ongoing) [Repo](https://github.com/azorfus/thousandislands)
-
-- **QTTP** - *A low-level QUIC and HTTP/3 diagnostic tool.* (Planned) [Repo](https://github.com/azorfus/QTTP)
-
-- **Tahl** - *An aggressive chess engine.* (Ongoing) [Repo](https://github.com/azorfus/Tahl)
-
-- **RL - Sandbox** - *A collection of RL experiments and algorithm implementations in Python.* 
-
-- **Tag** - *A complete working parser with error detection for a compiler I was working on* (Completed Sep 2025) [Repo](https://github.com/azorfus/Tag)
-- 
 - Learning reinforcement learning :P
+- I *try* to compete on CodeForces
 - I work on CTF challenges focused on reverse engineering, binary exploitation and cryptography. 
 - Learning *almost* everything about low level programming and linux kernel development. 
-- Goal: Keep learning and have fun solving CTF challenges :P
 
 ---
 
