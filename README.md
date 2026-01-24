@@ -1,38 +1,31 @@
-### Hi there 👋 I'm [Azorfus!](https://azorfus.github.io/about)
-
+### Hi I'm Azorfus
 ## I'm a Sophomore at VIT Chennai, India.
 
-[My Site!](https://azorfus.github.io/)
+## tools i've made
 
-- Learning reinforcement learning :P
-- I *try* to compete on CodeForces
-- I work on CTF challenges focused on reverse engineering, binary exploitation and cryptography. 
-- Learning *almost* everything about low level programming and linux kernel development. 
+- **[Tahl](https://github.com/azorfus/Tahl)**  
+  A chess engine using MCTS + neural networks, inspired by Tal-style aggressive play.
 
----
+- **[Mindf-ck](https://github.com/azorfus/Mindf-ck)**  
+  A self-transforming Brainf*ck compiler written entirely in x86_64 assembly.
 
-##### Languages I use
+- **[Thousand-Islands](https://github.com/azorfus/Thousand-Islands)**  
+  A tiny operating system experiment squeezed into ~1000 lines of C.
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![x86, x86_64 Intel Assembly](https://img.shields.io/badge/-Intel_Assembly-000000?style=flat&logo=intel)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+- **[Parsing Calculator](https://github.com/azorfus/parsing-calculator)**  
+  A calculator built with a real parser (not eval) — useful as a reference for expression parsing and ASTs.
 
-##### Some of the technologies I have worked with
+- **[TicTacToe (x86_64 ASM)](https://github.com/azorfus/tictactoe-asm)**  
+  A complete Tic-Tac-Toe game written in x86_64 assembly — control flow, state, I/O, the works.
 
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-000000?style=flat&logo=gnubash)
-![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt)
-![FLTK](https://img.shields.io/badge/-FLTK-000000?style=flat)
-![Godot](https://img.shields.io/badge/-Godot-000000?style=flat&logo=godotengine)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-<br/>
+- **[Tag](https://github.com/azorfus/Tag)**  
+  A parser with error detection — solid groundwork for compilers and language tooling.
 
----
+- **[Notes App](https://github.com/azorfus/notes-app)**  
+  A lightweight notes application focused on simplicity and fast local usage.
+  
+- **[azorfus.github.io](https://github.com/azorfus/azorfus.github.io)**  
+  Personal website / portfolio source.
 
 ![Azorfus's github stats](https://github-readme-stats.vercel.app/api?username=azorfus&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azorfus&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
