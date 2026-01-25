@@ -5,10 +5,7 @@
 
 - **[Tahl](https://github.com/azorfus/Tahl)**  
   A chess engine using MCTS + neural networks, inspired by Tal-style aggressive play.
-
-- **[Mindf-ck](https://github.com/azorfus/Mindf-ck)**  
-  A self-transforming Brainf*ck compiler written entirely in x86_64 assembly.
-
+  
 - **[Thousand-Islands](https://github.com/azorfus/Thousand-Islands)**  
   A tiny operating system experiment squeezed into ~1000 lines of C.
 
